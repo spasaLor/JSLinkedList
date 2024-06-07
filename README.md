@@ -1,7 +1,7 @@
 # JSLinkedList
 A singly linked list implementation in vanilla JS
 
-##Features
+## Features
 <ul>
   <li>
     append(value) adds a new node containing value to the end of the list or to start if list is empty
@@ -33,4 +33,3 @@ A singly linked list implementation in vanilla JS
 </li>
   <li>removeAt(index) removes the node at the given index or error message if the list is empty or if the request index is bigger than list size</li>
 </ul>
-<li>
